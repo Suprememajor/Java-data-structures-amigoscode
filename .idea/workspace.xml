@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c34e93a-ba89-4bcb-a517-a83924b6b659" name="Changes" comment="Working with Queues and Linkedlists">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/suprememajor/WorkingWithSets.java" afterDir="false" />
+    <list default="true" id="7c34e93a-ba89-4bcb-a517-a83924b6b659" name="Changes" comment="Working with Sets">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/suprememajor/WorkingWithMaps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,9 +45,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.WorkingWithSets">
-    <configuration name="WorkingWith2DArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.suprememajor.WorkingWith2DArrays" />
+  <component name="RunManager" selected="Application.WorkingWithMaps">
+    <configuration name="WorkingWithLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suprememajor.WorkingWithLists" />
       <module name="Java-data-structures-amigoscode" />
       <extension name="coverage">
         <pattern>
@@ -59,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WorkingWithLists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.suprememajor.WorkingWithLists" />
+    <configuration name="WorkingWithMaps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.suprememajor.WorkingWithMaps" />
       <module name="Java-data-structures-amigoscode" />
       <extension name="coverage">
         <pattern>
@@ -113,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WorkingWithMaps" />
         <item itemvalue="Application.WorkingWithSets" />
         <item itemvalue="Application.WorkingWithQueues" />
         <item itemvalue="Application.WorkingWithStacks" />
         <item itemvalue="Application.WorkingWithLists" />
-        <item itemvalue="Application.WorkingWith2DArrays" />
       </list>
     </recent_temporary>
   </component>
@@ -172,7 +172,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653574549898</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Working with Sets">
+      <created>1653711827620</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653711827620</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -193,6 +200,7 @@
     <MESSAGE value="Working with Stacks" />
     <MESSAGE value="Working with Queues" />
     <MESSAGE value="Working with Queues and Linkedlists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working with Queues and Linkedlists" />
+    <MESSAGE value="Working with Sets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with Sets" />
   </component>
 </project>
